@@ -1,2 +1,2 @@
-# Swan-Project
+# Swan-Teleco
  Churn analysis 
